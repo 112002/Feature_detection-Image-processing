@@ -7,4 +7,4 @@ corners = detectFASTFeatures(I,'MinContrast',0.1);
 J = insertMarker(I,corners,'circle');
 imshow(J) ``
 
-<img align="right" width="100" height="100" src="https://www.mathworks.com/help/vision/ug/feature_detection_corner.png">
+<img align="right" width="200" height="350" src="https://www.mathworks.com/help/vision/ug/feature_detection_corner.png">
