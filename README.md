@@ -3,9 +3,9 @@ In PC vision and picture handling highlight discovery incorporates techniques fo
 
 - Example of Corner Detection <br />
 
-` I = imread('circuit.tif');
-corners = detectFASTFeatures(I,'MinContrast',0.1);
-J = insertMarker(I,corners,'circle');
+` I = imread('circuit.tif'); <br />
+corners = detectFASTFeatures(I,'MinContrast',0.1); <br />
+J = insertMarker(I,corners,'circle'); <br />
 imshow(J) `
 
-
+<img align="right" width="250" height="300" src="https://www.mathworks.com/help/vision/ug/feature_detection_corner.png">
