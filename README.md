@@ -9,7 +9,8 @@ J = insertMarker(I,corners,'circle');
 imshow(J) `
 
 <img align="right" width="250" height="300" src="https://www.mathworks.com/help/vision/ug/feature_detection_corner.png">
-- <b>What Makes a Good Local Feature? < /b>
+- <b>What Makes a Good Local Feature?</b>
+<br>
 Detectors that rely on gradient-based and intensity variation approaches detect good local features. These features include edges, blobs, and regions. Good local features exhibit the following properties:
 <br />
 <b>Repeatable detections:< /b>
