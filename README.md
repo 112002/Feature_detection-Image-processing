@@ -12,11 +12,13 @@ imshow(J) `
 - <b>What Makes a Good Local Feature?</b>
 <br>
 Detectors that rely on gradient-based and intensity variation approaches detect good local features. These features include edges, blobs, and regions. Good local features exhibit the following properties:
-<br />
-<b>Repeatable detections:< /b>
+<br>
+<b>Repeatable detections:</b>
+<br>
 When given two images of the same scene, most features that the detector finds in both images are the same. The features are robust to changes in viewing conditions and noise.
 
 <b>Distinctive:</b>
+<br>
 The neighborhood around the feature center varies enough to allow for a reliable comparison between the features.
 
 Localizable:
