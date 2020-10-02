@@ -20,6 +20,5 @@ When given two images of the same scene, most features that the detector finds i
 <b>Distinctive:</b>
 <br>
 The neighborhood around the feature center varies enough to allow for a reliable comparison between the features.
-
-Localizable:
+<b>Localizable:</b>
 The feature has a unique location assigned to it. Changes in viewing conditions do not affect its location.
